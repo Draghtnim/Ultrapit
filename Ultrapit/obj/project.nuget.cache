@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4JnDElY0WBM7jnEN67Sa6+D+l0B/ep/t312pxMYSTj149Fddd4SZ66fGCI+/QFZj1GCMfyQ+Op9LudJ+TTKs0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\win11\\source\\repos\\Ultrapit\\Ultrapit\\Ultrapit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\win11\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\win11\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
